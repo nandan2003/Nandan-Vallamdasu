@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandan2003
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Introduction to Computer Science by Harvard CS50.
-- 💞️ I’m looking to collaborate on Artificial Intelligence.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Data Analytics, a Professional Certificate course offered by Google on Coursera.
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 Reach me on Instagram @nandan_vallamdas
 
 <!---
