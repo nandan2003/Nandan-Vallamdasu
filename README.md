@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandan2003
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Data Analytics, a Professional Certificate course offered by Google on Coursera.
-- 💞️ I’m looking to collaborate on Data Analysis Projects.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m recently completed Data Analytics, a Professional Certificate course offered by Google on Coursera.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 Reach me on Instagram @nandan_vallamdasu
 
 <!---
